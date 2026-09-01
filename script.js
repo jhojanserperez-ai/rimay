@@ -49,24 +49,24 @@ const lecciones = {
                 },
 
                 {
-                    pregunta: '¿Qué significa "Rimaykullayki"?',
+                    pregunta: '¿Qué significa "Allin tuta"?',
 
                     respuestas: [
-                        "Hola",
-                        "Gracias",
-                        "Adiós"
+                        "buenos dias",
+                        "buenas tardes",
+                        "buenas noches"
                     ],
 
-                    correcta: "Hola"
+                    correcta: "buenas noches"
                 },
 
                 {
                     pregunta: '¿Cómo se dice "Gracias"?',
 
                     respuestas: [
-                        "Añay",
-                        "Wawa",
-                        "Ayllu"
+                        "wawa",
+                        "Ayllu",
+                        "Añay"
                     ],
 
                     correcta: "Añay"
@@ -88,12 +88,12 @@ const lecciones = {
                     pregunta: '¿Qué significa "Allin p\'unchay"?',
 
                     respuestas: [
-                        "Buenos días",
-                        "Buenas noches",
+                        "Buenos noches",
+                        "Buenas dias",
                         "Gracias"
                     ],
 
-                    correcta: "Buenos días"
+                    correcta: "Buenos dias"
                 }
 
             ]
@@ -118,27 +118,27 @@ const lecciones = {
                 },
 
                 {
-                    pregunta: '¿Qué número es "Iskay"?',
+                    pregunta: '¿A partir de que numero se comienza decir "Chunka"?',
 
                     respuestas: [
-                        "1",
-                        "2",
-                        "3"
+                        "25",
+                        "9",
+                        "10"
                     ],
 
-                    correcta: "2"
+                    correcta: "10"
                 },
 
                 {
-                    pregunta: '¿Cómo se dice "Tres"?',
+                    pregunta: '¿Cómo se dice "100"?',
 
                     respuestas: [
-                        "Kimsa",
-                        "Tawa",
+                        "Chunka",
+                        "Pachak",
                         "Pichqa"
                     ],
 
-                    correcta: "Kimsa"
+                    correcta: "Pachak"
                 },
 
                 {
@@ -154,15 +154,15 @@ const lecciones = {
                 },
 
                 {
-                    pregunta: '¿Cómo se dice "Cinco"?',
+                    pregunta: '¿A partir del numero "1 000" como se comienza a decir?',
 
                     respuestas: [
-                        "Pichqa",
-                        "Suqta",
-                        "Qanchis"
+                        "Chunka",
+                        "Waranqa",
+                        "Pachak"
                     ],
 
-                    correcta: "Pichqa"
+                    correcta: "Waranqa"
                 }
 
             ]
@@ -190,9 +190,9 @@ const lecciones = {
                     pregunta: '¿Cómo se dice "Padre"?',
 
                     respuestas: [
-                        "Tayta",
+                        "Ayllu",
                         "Wawa",
-                        "Ayllu"
+                        "Tayta"
                     ],
 
                     correcta: "Tayta"
@@ -202,8 +202,8 @@ const lecciones = {
                     pregunta: '¿Qué significa "Wawa"?',
 
                     respuestas: [
+                        "abuelo",
                         "Niño",
-                        "Abuelo",
                         "Padre"
                     ],
 
@@ -223,15 +223,15 @@ const lecciones = {
                 },
 
                 {
-                    pregunta: '¿Cómo se dice "Madre"?',
+                    pregunta: '¿Cómo se dice "abuela"?',
 
                     respuestas: [
-                        "Mama",
+                        "Hatun tayta",
                         "Tayta",
-                        "Wawa"
+                        "Hatun mama"
                     ],
 
-                    correcta: "Mama"
+                    correcta: "Hatun mama"
                 }
 
             ]
@@ -244,55 +244,55 @@ const lecciones = {
             preguntas: [
 
                 {
-                    pregunta: '¿Qué aprenderemos en esta lección?',
+                    pregunta: '¿como se diria "perro"?',
 
                     respuestas: [
-                        "Animales",
-                        "Saludos",
-                        "Números"
-                    ],
-
-                    correcta: "Animales"
-                },
-
-                {
-                    pregunta: '¿Cuál de estas palabras representa un animal?',
-
-                    respuestas: [
+                        "Michi",
                         "Allqu",
-                        "Tayta",
-                        "Huk"
+                        "Kawallu"
                     ],
 
                     correcta: "Allqu"
                 },
 
                 {
-                    pregunta: '¿Qué significa "Allqu"?',
+                    pregunta: '¿Cuál de estas palabras representa un animal?',
+
+                    respuestas: [
+                        "tayta",
+                        "Taruka",
+                        "Huk"
+                    ],
+
+                    correcta: "Taruka"
+                },
+
+                {
+                    pregunta: '¿Qué significa "Taruka"?',
 
                     respuestas: [
                         "Perro",
-                        "Gato",
-                        "Pájaro"
+                        "venado",
+                        "venado andino"
                     ],
 
-                    correcta: "Perro"
+                    correcta: "venado andino"
                 },
 
                 {
-                    pregunta: '¿Cuál tema estás aprendiendo?',
+                    pregunta: '¿como dirias "gato"?',
 
                     respuestas: [
-                        "Animales",
-                        "Colores",
-                        "Comida"
+                        "Michi",
+                        "Allqu",
+                        "Taruka"
                     ],
 
-                    correcta: "Animales"
+                    correcta: "Michi"
                 },
 
                 {
-                    pregunta: '¿Terminaste la lección?',
+                    pregunta: '¿segun lo aprendido "perro" se dise "Allqu"?',
 
                     respuestas: [
                         "Sí",
@@ -320,62 +320,62 @@ const lecciones = {
             preguntas: [
 
                 {
-                    pregunta: '¿Qué aprenderemos primero?',
+                    pregunta: '¿Qué significa “Kamisaraki”?',
 
                     respuestas: [
-                        "Saludos",
-                        "Animales",
-                        "Colores"
+                        "Hola",
+                        "Gracias",
+                        "Hasta mañana"
                     ],
 
-                    correcta: "Saludos"
+                    correcta: "Hola"
                 },
 
                 {
-                    pregunta: '¿Cuál es una expresión de saludo?',
+                    pregunta: '¿Qué significa “Kunjamasktasa”?',
+
+                    respuestas: [
+                        "¿Cómo estás?",
+                        "¿Dónde vives?",
+                        "¿Cómo te llamas?"
+                    ],
+
+                    correcta: "¿Cómo estás?"
+                },
+
+                {
+                    pregunta: '¿Qué significa “Naya walkistwa”?',
+
+                    respuestas: [
+                        "Yo soy estudiante",
+                        "Yo estoy cansado",
+                        "Yo estoy bien"
+                    ],
+
+                    correcta: "Yo estoy bien"
+                },
+
+                {
+                    pregunta: '¿Qué expresión del material se utiliza para saludar?',
 
                     respuestas: [
                         "Kamisaraki",
-                        "Uno",
-                        "Perro"
+                        "Achachila",
+                        "Kimsa"
                     ],
 
                     correcta: "Kamisaraki"
                 },
 
                 {
-                    pregunta: '¿Qué significa aprender un saludo?',
+                    pregunta: '¿Cuál de estas expresiones significa “Yo estoy bien” en aimara?',
 
                     respuestas: [
-                        "Poder comunicarse",
-                        "Contar números",
-                        "Nombrar animales"
+                        "Naya walkistwa",
+                        "Kamisaraki"
                     ],
 
-                    correcta: "Poder comunicarse"
-                },
-
-                {
-                    pregunta: '¿Qué idioma estamos aprendiendo?',
-
-                    respuestas: [
-                        "Aimara",
-                        "Inglés",
-                        "Francés"
-                    ],
-
-                    correcta: "Aimara"
-                },
-
-                {
-                    pregunta: '¿Terminaste la lección?',
-
-                    respuestas: [
-                        "Sí",
-                        "No"
-                    ],
-
-                    correcta: "Sí"
+                    correcta: "Naya walkistwa"
                 }
 
             ]
@@ -388,63 +388,63 @@ const lecciones = {
             preguntas: [
 
                 {
-                    pregunta: '¿Qué aprenderemos?',
-
-                    respuestas: [
-                        "Números",
-                        "Animales",
-                        "Saludos"
-                    ],
-
-                    correcta: "Números"
-                },
-
-                {
-                    pregunta: '¿Para qué sirven los números?',
-
-                    respuestas: [
-                        "Para contar",
-                        "Para saludar",
-                        "Para dormir"
-                    ],
-
-                    correcta: "Para contar"
-                },
-
-                {
-                    pregunta: '¿Cuál es un número?',
+                    pregunta: '¿Qué significa “maya” en aimara?',
 
                     respuestas: [
                         "Uno",
-                        "Madre",
-                        "Perro"
+                        "Dos",
+                        "Tres"
                     ],
 
                     correcta: "Uno"
                 },
 
                 {
-                    pregunta: '¿Qué ayuda a aprender números?',
+                    pregunta: '¿Qué significa “paya” en aimara?',
 
                     respuestas: [
-                        "Practicar",
-                        "Ignorarlos",
-                        "No estudiar"
+                        "Tres",
+                        "Dos",
+                        "Cinco"
                     ],
 
-                    correcta: "Practicar"
+                    correcta: "Dos"
                 },
 
                 {
-                    pregunta: '¿Qué idioma estamos aprendiendo?',
+                    pregunta: '¿Qué significa “kimsa” en aimara?',
 
                     respuestas: [
-                        "Aimara",
-                        "Portugués",
-                        "Italiano"
+                        "Uno",
+                        "Siete",
+                        "Tres"
                     ],
 
-                    correcta: "Aimara"
+                    correcta: "Tres"
+                },
+
+                {
+                    pregunta: '¿Qué significa “suxta” en aimara?',
+
+                    respuestas: [
+                        "Diez",
+                        "Ocho",
+                        "Seis"
+                    ],
+
+                    correcta: "Seis"
+                },
+
+                {
+                    pregunta: '¿Qué significa “kimsaqallqu” en aimara?',
+
+                    respuestas: [
+                        "Ocho",
+                        "Siete",
+                        "Nueve"
+                    ],
+
+                    correcta: "Ocho"
                 }
 
             ]
@@ -457,62 +457,62 @@ const lecciones = {
             preguntas: [
 
                 {
-                    pregunta: '¿Qué aprenderemos?',
+                    pregunta: '¿Qué significa “achachila” en aimara?',
 
                     respuestas: [
-                        "Familia",
-                        "Animales",
-                        "Números"
+                        "Abuelo",
+                        "Padre",
+                        "Hermano"
                     ],
 
-                    correcta: "Familia"
+                    correcta: "Abuelo"
                 },
 
                 {
-                    pregunta: '¿Quién forma parte de una familia?',
+                    pregunta: '¿Qué significa “awicha” en aimara?',
 
                     respuestas: [
                         "Madre",
-                        "Montaña",
-                        "Número"
+                        "Abuela",
+                        "Hija"
+                    ],
+
+                    correcta: "Hija"
+                },
+
+                {
+                    pregunta: '¿Qué significa “tayka” en aimara?',
+
+                    respuestas: [
+                        "Madre",
+                        "Hija",
+                        "Hermana"
                     ],
 
                     correcta: "Madre"
                 },
 
                 {
-                    pregunta: '¿Qué ayuda a aprender vocabulario?',
+                    pregunta: '¿Qué significa “yuqa” en aimara?',
 
                     respuestas: [
-                        "Repetir",
-                        "Olvidar",
-                        "No practicar"
+                        "Padre",
+                        "Abuelo",
+                        "Hijo"
                     ],
 
-                    correcta: "Repetir"
+                    correcta: "Hijo"
                 },
 
                 {
-                    pregunta: '¿Qué estamos aprendiendo?',
+                    pregunta: '¿Qué significa “ipasiri” en aimara?',
 
                     respuestas: [
-                        "Palabras de la familia",
-                        "Solo números",
-                        "Solo animales"
+                        "Sobrina",
+                        "hijastra"
                     ],
 
-                    correcta: "Palabras de la familia"
-                },
-
-                {
-                    pregunta: '¿Terminaste esta lección?',
-
-                    respuestas: [
-                        "Sí",
-                        "No"
-                    ],
-
-                    correcta: "Sí"
+                    correcta: "Sobrina"
                 }
 
             ]
@@ -525,62 +525,62 @@ const lecciones = {
             preguntas: [
 
                 {
-                    pregunta: '¿Qué aprenderemos?',
+                    pregunta: '¿Qué significa “anu” en aimara?',
 
                     respuestas: [
-                        "Animales",
-                        "Saludos",
-                        "Números"
-                    ],
-
-                    correcta: "Animales"
-                },
-
-                {
-                    pregunta: '¿Cuál es un animal?',
-
-                    respuestas: [
+                        "Gato",
                         "Perro",
-                        "Madre",
-                        "Cinco"
+                        "Zorro"
                     ],
 
                     correcta: "Perro"
                 },
 
                 {
-                    pregunta: '¿Qué ayuda a aprender palabras?',
+                    pregunta: '¿Qué significa “misi” en aimara?',
 
                     respuestas: [
-                        "Escuchar y practicar",
-                        "Ignorarlas",
-                        "No repetir"
+                        "Perro",
+                        "Gato",
+                        "Llama"
                     ],
 
-                    correcta: "Escuchar y practicar"
+                    correcta: "Gato"
                 },
 
                 {
-                    pregunta: '¿Qué podemos aprender sobre animales?',
+                    pregunta: '¿Qué significa “k`usillu” en aimara?',
 
                     respuestas: [
-                        "Sus nombres",
-                        "Solo números",
-                        "Solo saludos"
+                        "Gavilan",
+                        "Zorzal",
+                        "Mono titi"
                     ],
 
-                    correcta: "Sus nombres"
+                    correcta: "Mono titi"
                 },
 
                 {
-                    pregunta: '¿Terminaste la lección?',
+                    pregunta: '¿Qué significa “chiwanku” en aimara?',
 
                     respuestas: [
-                        "Sí",
-                        "No"
+                        "Gallina",
+                        "Zorzal",
+                        "Gato"
                     ],
 
-                    correcta: "Sí"
+                    correcta: "Zorzal"
+                },
+
+                {
+                    pregunta: '¿Qué significa “allqamari” en aimara?',
+
+                    respuestas: [
+                        "Gavilan de campo",
+                        "Perro"
+                    ],
+
+                    correcta: "Gavilan de campo"
                 }
 
             ]
@@ -669,27 +669,27 @@ const lecciones = {
             preguntas: [
 
                 {
-                    pregunta: '¿Qué aprenderemos?',
+                    pregunta: '¿Qué significa “pankirentsiyetatsiri” en asháninka?',
 
                     respuestas: [
-                        "Naturaleza",
-                        "Números",
-                        "Saludos"
+                        "Plantas",
+                        "Animales",
+                        "Rios"
                     ],
 
-                    correcta: "Naturaleza"
+                    correcta: "Plantas"
                 },
 
                 {
-                    pregunta: '¿Qué podemos encontrar en la naturaleza?',
+                    pregunta: '¿Qué significa “shonkarontsi” en asháninka?',
 
                     respuestas: [
-                        "Árboles",
-                        "Computadoras",
-                        "Autos"
+                        "Movimiento de la tierra",
+                        "Lluvia",
+                        "Viento"
                     ],
 
-                    correcta: "Árboles"
+                    correcta: "Movimiento de la tierra"
                 },
 
                 {
@@ -738,62 +738,62 @@ const lecciones = {
             preguntas: [
 
                 {
-                    pregunta: '¿Qué aprenderemos?',
+                    pregunta: '¿Cómo se dice “mamá” en asháninka?',
 
                     respuestas: [
-                        "Familia",
-                        "Números",
-                        "Animales"
+                        "Ina",
+                        "Apa",
+                        "Isha"
                     ],
 
-                    correcta: "Familia"
+                    correcta: "Ina"
                 },
 
                 {
-                    pregunta: '¿Quién pertenece a una familia?',
+                    pregunta: '¿Cómo se dice “papá” en asháninka?',
 
                     respuestas: [
-                        "Madre",
-                        "Montaña",
-                        "Número"
+                        "Chaine",
+                        "Apa",
+                        "Iye"
                     ],
 
-                    correcta: "Madre"
+                    correcta: "Apa"
                 },
 
                 {
-                    pregunta: '¿Qué ayuda a aprender vocabulario?',
+                    pregunta: '¿Cómo se dice “abuela” en asháninka?',
 
                     respuestas: [
-                        "Practicar",
-                        "Ignorar",
-                        "No repetir"
+                        "Ina",
+                        "Isha",
+                        "Tsio"
                     ],
 
-                    correcta: "Practicar"
+                    correcta: "Isha"
                 },
 
                 {
-                    pregunta: '¿Qué estamos aprendiendo?',
+                    pregunta: '¿Cómo se dice “abuelo” en asháninka?',
 
                     respuestas: [
-                        "Palabras de familia",
-                        "Solo animales",
-                        "Solo números"
+                        "Iye",
+                        "Chaine",
+                        "Apa"
                     ],
 
-                    correcta: "Palabras de familia"
+                    correcta: "Chaine"
                 },
 
                 {
-                    pregunta: '¿Terminaste esta lección?',
+                    pregunta: '¿Cómo se dice “hermano” en asháninka?',
 
                     respuestas: [
-                        "Sí",
-                        "No"
+                        "Iye",
+                        "Tsio"
                     ],
 
-                    correcta: "Sí"
+                    correcta: "Iye"
                 }
 
             ]
@@ -806,62 +806,62 @@ const lecciones = {
             preguntas: [
 
                 {
-                    pregunta: '¿Qué aprenderemos?',
+                    pregunta: '¿Qué significa “koshiri” en asháninka?',
 
                     respuestas: [
-                        "Animales",
-                        "Saludos",
-                        "Números"
+                        "Venado",
+                        "Mono",
+                        "Tortuga"
                     ],
 
-                    correcta: "Animales"
+                    correcta: "Mono"
                 },
 
                 {
-                    pregunta: '¿Cuál es un animal?',
+                    pregunta: '¿Qué significa “maniro” en asháninka?',
 
                     respuestas: [
-                        "Perro",
-                        "Madre",
-                        "Cinco"
+                        "Venado",
+                        "Tigre",
+                        "Nutria"
                     ],
 
-                    correcta: "Perro"
+                    correcta: "Venado"
                 },
 
                 {
-                    pregunta: '¿Qué ayuda a aprender palabras?',
+                    pregunta: '¿Qué significa “konoya” en asháninka?',
 
                     respuestas: [
-                        "Escuchar y practicar",
-                        "Ignorarlas",
-                        "No repetir"
+                        "Sachavaca",
+                        "Tortuga",
+                        "Mono"
                     ],
 
-                    correcta: "Escuchar y practicar"
+                    correcta: "Tortuga"
                 },
 
                 {
-                    pregunta: '¿Qué podemos aprender sobre animales?',
+                    pregunta: '¿Qué significa “parari” en asháninka?',
 
                     respuestas: [
-                        "Sus nombres",
-                        "Solo números",
-                        "Solo saludos"
+                        "Venado",
+                        "Tigre",
+                        "Nutria"
                     ],
 
-                    correcta: "Sus nombres"
+                    correcta: "Nutria"
                 },
 
                 {
-                    pregunta: '¿Terminaste la lección?',
+                    pregunta: '¿Qué significa “kemari” en asháninka?',
 
                     respuestas: [
-                        "Sí",
-                        "No"
+                        "Sachavaca",
+                        "Mono"
                     ],
 
-                    correcta: "Sí"
+                    correcta: "Sachavaca"
                 }
 
             ]
